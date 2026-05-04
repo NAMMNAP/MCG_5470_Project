@@ -24,7 +24,7 @@ The video below shows a demo of the SAC model running in Project AirSim.
 │   │   └── pid_rl.py						# SAC training script
 │   │   └── sac_airsim.zip					# SAC model
 │   │   └── sac_airsim_vec.pkl				# SAC model vectorization
-├── q_learning/
+├── Q_Learning/
 │   └── Path_Following_Environment.m
 |   └── controller.m
 |   └── step.m
@@ -38,4 +38,4 @@ For Project AirSim, [please see installation instructions.](https://github.com/i
 ## SAC
 Run `env.py` for baseline, run `rl.py` for SAC model. If Project AirSim is installed, this can be substitued with `pid_env.py` and `pid_rl.py`, respectively, in the `project_airsim/` folder.
 ## Q-Learning
-Run 'Path_Following_Environment' with 'controller.m' and 'step.m' in the path
+Run `Path_Following_Environment` with `controller.m` and `step.m` in the path.
