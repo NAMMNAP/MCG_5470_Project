@@ -2,7 +2,7 @@
 
 # Demo
 The video below shows a demo of the SAC model running in Project AirSim.
-[![Watch the video](https://youtu.be/40be-exhKdc)](https://youtu.be/40be-exhKdc)
+[![Watch the video](https://youtu.be/40be-exhKdc/maxresdefault.jpg)](https://youtu.be/40be-exhKdc)
 
 # Project Structure
 ```text
