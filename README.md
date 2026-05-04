@@ -38,4 +38,4 @@ For Project AirSim, [please see installation instructions.](https://github.com/i
 ## SAC
 Run `env.py` for baseline, run `rl.py` for SAC model. If Project AirSim is installed, this can be substitued with `pid_env.py` and `pid_rl.py`, respectively, in the `project_airsim/` folder.
 ## Q-Learning
-Run `Path_Following_Environment` with `controller.m` and `step.m` in the path.
+Run `Path_Following_Environment` with `controller.m` and `step.m` in the path. To test a fixed path uncomment lines 26-31 and comment out lines 33-74.
